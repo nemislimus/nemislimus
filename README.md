@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/Kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-BDB76B?style=for-the-badge&logo=java)
 ![Static Badge](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/%D0%9E%D0%9E%D0%9F-000080?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/OOP-FF4500?style=for-the-badge&logo=oop&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Clean_Architecture-9370DB?style=for-the-badge&logo=CA&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MVVM-006400?style=for-the-badge&logo=MVVM&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MVP-1E90FF?style=for-the-badge&logoColor=white)
