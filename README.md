@@ -20,6 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/MVP-1E90FF?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Retrofit-grey?style=for-the-badge&logo=retrofit&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Room-008B8B?style=for-the-badge&logo=Room&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Dagger-blue?style=for-the-badge&logo=dagger)
 ![Static Badge](https://img.shields.io/badge/koin-yellow?style=for-the-badge&logo=koin&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Coroutines-FF7F50?style=for-the-badge&logo=Coroutines&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flow-708090?style=for-the-badge&logoColor=white)
